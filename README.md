@@ -63,7 +63,7 @@
 ## 요구사항
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
-- oh-my-claudecode (OMC) 권장
+- [oh-my-claudecode (OMC)](https://github.com/Yeachan-Heo/oh-my-claudecode) 권장
 
 ## 배경
 
